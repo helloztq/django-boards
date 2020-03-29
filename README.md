@@ -1,0 +1,2 @@
+# django-boards
+Hello boards
